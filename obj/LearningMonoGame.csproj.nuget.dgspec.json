@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj": {}
+    "C:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj": {
+    "C:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj",
+        "projectUniqueName": "C:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj",
         "projectName": "LearningMonoGame",
-        "projectPath": "c:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj",
+        "projectPath": "C:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\LearningMonoGame.csproj",
         "packagesPath": "C:\\Users\\ferwo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\obj\\",
+        "outputPath": "C:\\Users\\ferwo\\Documents\\SelfStudy\\C#\\MonoGame\\LearningMonoGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
